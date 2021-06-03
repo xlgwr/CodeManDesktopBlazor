@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeManDesktopBlazor.BlzsorComponents
+namespace CodeManDesktopBlazor.BlzsorComponents.Shared
 {
-    public partial class CounterDemo
+    public partial class NavMenu
     {
     }
 }
