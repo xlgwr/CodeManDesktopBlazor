@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeManDesktopBlazor.BlazorComponents.Shared
+namespace CodeManDesktopBlazor.BlzsorComponents.Shared
 {
-    public partial class MainLayout
+    public partial class NavMenu
     {
     }
 }

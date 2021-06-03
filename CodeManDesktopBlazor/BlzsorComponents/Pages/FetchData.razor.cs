@@ -1,4 +1,4 @@
-﻿using CodeManDesktopBlazor.BlazorComponents.Models;
+﻿using CodeManDesktopBlazor.BlzsorComponents.Models;
 using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeManDesktopBlazor.BlazorComponents.Pages
+namespace CodeManDesktopBlazor.BlzsorComponents.Pages
 {
     public partial class FetchData : ComponentBase
     { 

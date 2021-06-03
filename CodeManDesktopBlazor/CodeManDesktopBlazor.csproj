@@ -21,10 +21,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="BlazorComponents\AppUI.razor">
+    <Content Update="BlzsorComponents\AppUI.razor">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
     </Content>
-    <Content Update="BlazorComponents\_Imports.razor">
+    <Content Update="BlzsorComponents\_Imports.razor">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
     </Content>
     <Content Update="wwwroot\css\app.css">
@@ -72,36 +72,36 @@
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Pages\Counter.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Pages\Counter.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <_ContentIncludedByDefault Remove="BlazorComponents\Pages\Counter.razor" />
-    <_ContentIncludedByDefault Remove="BlazorComponents\Pages\FetchData.razor" />
-    <_ContentIncludedByDefault Remove="BlazorComponents\Pages\Index.razor" />
-    <_ContentIncludedByDefault Remove="BlazorComponents\Shared\MainLayout.razor" />
-    <_ContentIncludedByDefault Remove="BlazorComponents\Shared\NavMenu.razor" />
-    <_ContentIncludedByDefault Remove="BlazorComponents\Shared\SurveyPrompt.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Pages\Counter.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Pages\FetchData.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Pages\Index.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Shared\MainLayout.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Shared\NavMenu.razor" />
+    <_ContentIncludedByDefault Remove="BlzsorComponents\Shared\SurveyPrompt.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Pages\FetchData.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Pages\FetchData.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Pages\Index.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Pages\Index.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Shared\MainLayout.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Shared\MainLayout.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Shared\NavMenu.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Shared\NavMenu.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <UpToDateCheckInput Remove="BlazorComponents\Shared\SurveyPrompt.razor" />
+    <UpToDateCheckInput Remove="BlzsorComponents\Shared\SurveyPrompt.razor" />
   </ItemGroup>
 
 </Project>
