@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodeManDesktopBlazor.BlzsorComponents.Models
+namespace CodeManDesktopBlazor.BlazorComponents.Models
 {
     public class WeatherForecast
     {
