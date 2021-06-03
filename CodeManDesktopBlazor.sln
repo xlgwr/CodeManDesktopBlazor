@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeManDesktopBlazor", "CodeManDesktopBlazor\CodeManDesktopBlazor.csproj", "{00642495-BCB9-4EDA-A8C8-1C7C524FA612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionClassLibrary", "BaseExtClassLibrary\ExtensionClassLibrary.csproj", "{804C5484-7EE7-4EA4-A2B4-20FA3929F003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00642495-BCB9-4EDA-A8C8-1C7C524FA612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00642495-BCB9-4EDA-A8C8-1C7C524FA612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00642495-BCB9-4EDA-A8C8-1C7C524FA612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00642495-BCB9-4EDA-A8C8-1C7C524FA612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804C5484-7EE7-4EA4-A2B4-20FA3929F003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804C5484-7EE7-4EA4-A2B4-20FA3929F003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804C5484-7EE7-4EA4-A2B4-20FA3929F003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804C5484-7EE7-4EA4-A2B4-20FA3929F003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC0756AA-D82A-4E88-8251-E4708DECF1A9}
+	EndGlobalSection
+EndGlobal
