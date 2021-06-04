@@ -34,6 +34,8 @@ namespace CodeManDesktopBlazor
             {
                 var serviceCollection = new ServiceCollection();
                 serviceCollection.AddBlazorWebView();
+                // 添加本行代码
+                serviceCollection.AddBootstrapBlazor();
                 Resources.Add("services", serviceCollection.BuildServiceProvider());
 
             }

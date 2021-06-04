@@ -18,6 +18,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BaseExtClassLibrary\ExtensionClassLibrary.csproj" />
+    <ProjectReference Include="..\BootstrapBlazor\src\BootstrapBlazor.Shared\BootstrapBlazor.Shared.csproj" />
+    <ProjectReference Include="..\BootstrapBlazor\src\BootstrapBlazor\BootstrapBlazor.csproj" />
+    <ProjectReference Include="..\BootstrapBlazor\src\Extensions\Components\BootstrapBlazor.Chart\BootstrapBlazor.Chart.csproj" />
+    <ProjectReference Include="..\BootstrapBlazor\src\Extensions\Components\BootstrapBlazor.Markdown\BootstrapBlazor.Markdown.csproj" />
+    <ProjectReference Include="..\BootstrapBlazor\src\Extensions\Components\BootstrapBlazor.TableExport\BootstrapBlazor.TableExport.csproj" />
   </ItemGroup>
 
   <ItemGroup>
@@ -102,6 +107,10 @@
 
   <ItemGroup>
     <UpToDateCheckInput Remove="BlazorComponents\Shared\SurveyPrompt.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 </Project>
