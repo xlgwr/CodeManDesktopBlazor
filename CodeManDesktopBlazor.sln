@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BootstrapBlazor.Markdown", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BootstrapBlazor.TableExport", "BootstrapBlazor\src\Extensions\Components\BootstrapBlazor.TableExport\BootstrapBlazor.TableExport.csproj", "{0BA42AAD-96EE-454F-993E-058CDAB4A2A5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BootstrapBlazorAll", "BootstrapBlazorAll", "{B65E806E-45D1-4CB1-9B5F-A4FCD3900984}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61254826-B15D-4438-A29D-3690363F1C5A} = {B65E806E-45D1-4CB1-9B5F-A4FCD3900984}
+		{3D7587CF-5227-437A-AD46-0C3F8FF7AF5C} = {B65E806E-45D1-4CB1-9B5F-A4FCD3900984}
+		{80EFE44E-C02F-44D5-BB46-13C9BBA778D3} = {B65E806E-45D1-4CB1-9B5F-A4FCD3900984}
+		{1252C388-56D7-4A30-8394-84E1ED35FB5A} = {B65E806E-45D1-4CB1-9B5F-A4FCD3900984}
+		{0BA42AAD-96EE-454F-993E-058CDAB4A2A5} = {B65E806E-45D1-4CB1-9B5F-A4FCD3900984}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EC0756AA-D82A-4E88-8251-E4708DECF1A9}
