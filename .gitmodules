@@ -1,0 +1,4 @@
+[submodule "BootstrapBlazor"]
+	path = BootstrapBlazor
+	url = https://gitee.com/xlgwr/BootstrapBlazor.git
+	branch = main_dotnet6
